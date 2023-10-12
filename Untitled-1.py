@@ -25,4 +25,5 @@ print("Имя пользователя:" + get_username())
 print("По всем вопросам, просьба обращаться: Отдел поддержки пользователей")    #Вывод контактной информации
 print("Тел.: 55555; +7(8617) 602555")
 print("email: 55555@ncsp.com")
-print("https://help.ncsp.ru")
+print("https://help.ncsp.com")
+print("Портал Новороссийского Морского Торгового Порта: https://www.webportal.ncsp.com")
